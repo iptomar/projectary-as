@@ -22,3 +22,5 @@ Projectary API
 |PUT | /TEACHER | [TEACHER] | Update a Teacher |
 |GET | /APPLICATION |	[ADMIN] | Get Application list |
 |GET | /APPLICATION/:ID | [TEACHER] | Get a specific application list |
+
+##Credits of table: @jpcanoso
