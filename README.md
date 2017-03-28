@@ -1,6 +1,5 @@
 # projectary-as
-Projectary API
-==============
+
 ## Team AS
 | Name | Username |
 | --- | --- |
