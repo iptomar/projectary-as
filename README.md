@@ -1,6 +1,16 @@
 # projectary-as
 Projectary API
 ==============
+## Team AS
+| Name | Username |
+| --- | --- |
+| Alexandre Ferreira | AlexandreFerreira65 |
+| António Ferreira | todaniel |
+| Arruá Valentim | Valentiim |
+| Cristina Coxinho | coxinho |
+| Rafael Escudeiro | rafescu |
+| Renato Antunes | rffantunes |
+| Ricardo António | ricardma |
 
 ## Methods
 
@@ -23,4 +33,4 @@ Projectary API
 |GET | /APPLICATION |	[ADMIN] | Get Application list |
 |GET | /APPLICATION/:ID | [TEACHER] | Get a specific application list |
 
-##Credits of table: @jpcanoso
+## Credits of table: @jpcanoso
