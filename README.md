@@ -1,6 +1,9 @@
-# projectary-as
+# Projectary
+
+Final project of the discipline Projeto de Sistemas de Informação of Instituto Politécnico de Tomar[2017].
 
 ## Team AS
+
 | Name | Username |
 | --- | --- |
 | Alexandre Ferreira | AlexandreFerreira65 |
@@ -11,7 +14,19 @@
 | Renato Antunes | rffantunes |
 | Ricardo António | ricardma |
 
-## Methods
+## Database
+
+Information about the database can be found [here](https://github.com/iptomar/projectary-bd)
+
+## API
+
+Information about the API can be found [here](https://github.com/iptomar/projectary-api)
+
+## Frontend
+
+Information about the frontend can be found [here](https://github.com/iptomar/projectary-frontend)
+
+## Methods [DEPRECATED]
 
 | Method | Arguments | User | Description |
 | --- | --- | --- | --- |
@@ -31,5 +46,17 @@
 |PUT | /TEACHER | [TEACHER] | Update a Teacher |
 |GET | /APPLICATION |	[ADMIN] | Get Application list |
 |GET | /APPLICATION/:ID | [TEACHER] | Get a specific application list |
-
 ## Credits of table: @jpcanoso
+
+## Built With
+
+* [Angular2](https://angular.io/) - The framework used
+* [CasperJS](http://casperjs.org/) - Navigation scripting & testing
+* [PhantomJS](http://phantomjs.org/) - Headless WebKit scriptable
+* [MySQL](https://www.mysql.com/) - Database
+
+and much more...
+
+## Authors
+List of [contributors](https://github.com/orgs/iptomar/people) who participated in this project.
+
