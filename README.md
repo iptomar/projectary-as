@@ -50,7 +50,8 @@ Information about the frontend can be found [here](https://github.com/iptomar/pr
 
 ## Built With
 
-* [Angular2](https://angular.io/) - The framework used
+* [Angular2](https://angular.io/) - The framework used by the frontend
+* [Node.JS](https://nodejs.org/en/) - Used in API
 * [CasperJS](http://casperjs.org/) - Navigation scripting & testing
 * [PhantomJS](http://phantomjs.org/) - Headless WebKit scriptable
 * [MySQL](https://www.mysql.com/) - Database
