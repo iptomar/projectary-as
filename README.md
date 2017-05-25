@@ -14,6 +14,9 @@ Final project of the discipline Projeto de Sistemas de Informação of Instituto
 | Renato Antunes | rffantunes |
 | Ricardo António | ricardma |
 
+##Diagramas de Sequência em falta!!
+![Diagramas de sequência em falta](https://github.com/iptomar/gittests/blob/master/17422/Diagramas%20de%20sequencia%20-%20Cópia.JPG)
+
 ## Database
 
 Information about the database can be found [here](https://github.com/iptomar/projectary-bd)
