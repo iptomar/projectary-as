@@ -15,7 +15,7 @@ Final project of the discipline Projeto de Sistemas de Informação of Instituto
 | Ricardo António | ricardma |
 
 ## Diagramas de Sequência em falta!! 25/05/2017 @rffantunes
-![Diagramas de sequência em falta](https://github.com/iptomar/gittests/blob/master/17422/Diagramas%20de%20sequencia%20-%20Cópia.JPG)
+![Diagramas de sequência em falta](https://github.com/iptomar/gittests/blob/master/17422/Diagramas%20.png)
 
 ## Database
 
@@ -29,27 +29,21 @@ Information about the API can be found [here](https://github.com/iptomar/project
 
 Information about the frontend can be found [here](https://github.com/iptomar/projectary-frontend)
 
-## Methods [DEPRECATED]
+## Methods 
 
-| Method | Arguments | User | Description |
-| --- | --- | --- | --- |
-| POST | /STUDENT | [GUEST] | Create a Student |
-| POST | /STUDENT/:ID/APPROVE | [ADMIN] | Approve a Student |
-| PUT | /STUDENT | [STUDENT] | Update a Student |
-| GET | /STUDENT | [TEACHER] | Get students list |
-| GET | /STUDENT/:ID | [TEACHER] | Get a student |
-| POST | /PROJECT | [TEACHER] | Create a Project |
-|PUT | /PROJECT/:ID | [TEACHER] | Update a Project |
-|GET | /PROJECT | [STUDENT] | Get Projects list |
-|GET | /PROJECT/:ID	| [STUDENT] | Get a project |
-|GET | /PROJECT/:ID/APPLICATIONS | [TEACHER] | Get applications list |
-|POST | /APPLICATION | [STUDENT] | Apply for a Project |
-|POST | /APPLICATION/:ID/ACCEPT | [ADMIN] | Approve a application |
-|POST | /TEACHER | [ADMIN] | Create a Teacher |
-|PUT | /TEACHER | [TEACHER] | Update a Teacher |
-|GET | /APPLICATION |	[ADMIN] | Get Application list |
-|GET | /APPLICATION/:ID | [TEACHER] | Get a specific application list |
-## Credits of table: @jpcanoso
+### User  31/05/2017
+| Method | Arguments | User | Function | Description |
+| --- | --- | --- | --- | --- |
+| GET | /USER | [USER] | list | Get User's list |
+| PUT | /USER | [USER] | update | Update a User |
+| GET | /USER/PENDING | [ADMIN] | pending | Get not confirmed users |
+| GET | /USER/:ID | [USER] | info | Get a User |
+| POST | /USER/:ID/APPROVE | [ADMIN] | approve | Approve a user |
+| POST | /USER |  | createStudent | Create a Student |
+| POST | /TEACHER | [ADMIN] | createTeacher | Create a Teacher |
+| PUT | /USER/CHPASSWORD | [USER] | chPassword | Change User Password |
+| PUT | /USER/:ID/SWLOCK | [ADMIN] | swLock | Switch the lock state of the user |
+| POST | /LOGIN |  | login | Login a User |
 
 ## Built With
 
