@@ -14,6 +14,11 @@ Final project of the discipline Projeto de Sistemas de Informação of Instituto
 | Renato Antunes | rffantunes |
 | Ricardo António | ricardma |
 
+## Diagramas para Apresentação
+![Diagramas de sequência em falta](https://github.com/iptomar/gittests/blob/master/17422/apresenta.JPG)
+
+
+
 ## Diagramas de Sequência em falta!! 25/05/2017 @rffantunes
 ![Diagramas de sequência em falta](https://github.com/iptomar/gittests/blob/master/17422/Diagramas%20.png)
 
